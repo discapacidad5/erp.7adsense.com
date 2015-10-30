@@ -29,7 +29,7 @@
 							<a href="/bo/configuracion/datos_generales?id_red=<?= $red->id ?>">
 								<div
 									class="well well-sm txt-color-white text-center link_dashboard"
-									style="background: #006">
+									style="background: <?=$style[0]->btn_1_color?>">
 									<i class="fa fa-sitemap fa-5x"></i>
 									<h5><?= $red->nombre;?></h5>
 								</div>

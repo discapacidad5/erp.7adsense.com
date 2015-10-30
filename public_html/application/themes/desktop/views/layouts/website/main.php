@@ -2,7 +2,7 @@
 <html class="">
 	<head>
 		<meta charset="utf-8">
-		<title> NetworkSoft </title>
+		<title> 7adSense </title>
 		<meta name="description" content="">
 		<meta name="author" content="">
 
@@ -33,8 +33,8 @@
 
 
 		<!-- #FAVICONS -->
-		<link rel="shortcut icon" href="/template/img/favicon/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="/template/img/favicon/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="/template/img/favicon/favicon.png" type="image/x-icon">
+		<link rel="icon" href="/template/img/favicon/favicon.png" type="image/x-icon">
 
 		<!-- #GOOGLE FONT -->
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,700">

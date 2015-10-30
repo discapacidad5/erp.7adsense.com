@@ -37,7 +37,7 @@
 			<? foreach ($redes as $red ) { ?>
 				<div class="col-lg-3 col-sm-3 col-md-3 col-xs-12">
 					<a href="/bo/capacidadRed/capacidad_de_la_red?id=<?= $red->id ?>">
-						<div class="well well-sm txt-color-white text-center link_dashboard" style="background:#006">
+						<div class="well well-sm txt-color-white text-center link_dashboard" style="background:<?=$style[0]->btn_1_color?>">
 							<i class="fa fa-sitemap fa-5x"></i>
 							<h5><?= $red->nombre;?></h5>
 						</div>	

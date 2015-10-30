@@ -81,7 +81,7 @@ $ci->load->model ( "model_permissions" );
 									<a href="/bo/logistico2/pedidos">
 										<div
 											class="minh well well-sm txt-color-white text-center link_dashboard"
-											style="background: #006;">
+											style="background: <?=$style[0]->btn_1_color?>;">
 											<i class="fa fa-edit fa-3x"></i>
 											<h4>Pedidos / Embarque</h4>
 										</div>

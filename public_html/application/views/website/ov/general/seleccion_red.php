@@ -19,7 +19,7 @@
 											<? foreach ($redes_de_usuario as $red ) { ?>
 												<div class="col-lg-2 col-sm-2 col-md-2 col-xs-12">
 													<a href="/ov/cgeneral/chat_red?id_red=<?= $red->id; ?>">
-														<div class="well well-sm txt-color-white text-center link_dashboard" style="background:#606060">
+														<div class="well well-sm txt-color-white text-center link_dashboard" style="background:<?=$style[0]->btn_2_color?>">
 																<i class="fa fa-sitemap fa-5x"></i>
 																<h5><?= $red->nombre;?></h5>
 														</div>	

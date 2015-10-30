@@ -17,7 +17,7 @@
 	<legend>Afiliar</legend>
 						<div class="col-lg-3 col-sm-3 col-md-3 col-xs-12">
 						<a href="alta">
-							<div class="well well-sm txt-color-white text-center link_dashboard" style="background:#006">
+							<div class="well well-sm txt-color-white text-center link_dashboard" style="background:<?=$style[0]->btn_1_color?>">
 								<i class="fa fa-edit fa-5x"></i>
 								<h5>Nuevo Afiliado</h5>
 							</div>	
@@ -25,7 +25,7 @@
 					</div>
 					<div class="col-lg-3 col-sm-3 col-md-3 col-xs-12">
 						<a href="afiliar_existente">
-							<div class="well well-sm txt-color-white text-center link_dashboard" style="background:#006">
+							<div class="well well-sm txt-color-white text-center link_dashboard" style="background:<?=$style[0]->btn_1_color?>">
 								<i class="fa fa-user fa-5x"></i>
 								<h5>Afiliado Existente</h5>
 							</div>	

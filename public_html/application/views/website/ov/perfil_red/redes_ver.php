@@ -17,7 +17,7 @@
 							<a href="/ov/red/mi_red?id=<?= $red->id ?>">
 								<div
 									class="well well-sm txt-color-white text-center link_dashboard"
-									style="background: #606060">
+									style="background: <?=$style[0]->btn_2_color?>">
 									<i class="fa fa-sitemap fa-5x"></i>
 									<h5><?= $red->nombre;?></h5>
 								</div>

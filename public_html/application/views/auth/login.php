@@ -2,7 +2,7 @@
 <html lang="en-us" id="extr-page">
 	<head>
 		<meta charset="utf-8">
-		<title>Networksoft</title>
+		<title>7adSense</title>
 		<meta name="description" content="">
 		<meta name="author" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -28,8 +28,8 @@
 		<link rel="stylesheet" type="text/css" media="screen" href="/template/css/demo.min.css">
 
 		<!-- #FAVICONS -->
-		<link rel="shortcut icon" href="/template/img/favicon/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="/template/img/favicon/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="/template/img/favicon/favicon.png" type="image/x-icon">
+		<link rel="icon" href="/template/img/favicon/favicon.png" type="image/x-icon">
 
 		<!-- #GOOGLE FONT -->
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,700">
@@ -58,7 +58,7 @@
 		<header id="header" class="fade in">
 		<br />
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-				<h1>Sistema Integral de Operaciones Share Systems &reg;</h1>
+				<h1>Sistema Integral de Operaciones 7adSense &reg;</h1>
 			</div>
 		</header>
 
@@ -156,7 +156,7 @@
 			{
 				text-align: center; 
 				color: #FFF !important;
-				background: #006 !important;
+				background: #59cf53 !important;
 
 			}
 			#compania{width: 20%; margin: 0 auto;}

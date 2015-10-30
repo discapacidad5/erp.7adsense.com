@@ -16,22 +16,22 @@
 				<fieldset>
 					<legend>Red</legend>
 					<div class="row">
-						<div class="col-lg-1 col-sm-1 col-md-1 col-xs-12"></div>
-						<div class="col-lg-5 col-sm-5 col-md-5 col-xs-12">
+						<div class="col-lg-3 col-sm-3 col-md-3 col-xs-12"></div>
+						<div class="col-lg-3 col-sm-3 col-md-3 col-xs-12">
 							<a href="afiliar_frontal_existente?id=<?php echo $_GET['id']; ?>">
 								<div
 									class="well well-sm txt-color-white text-center link_dashboard"
-									style="background: #60a917">
+									style="background: <?=$style[0]->btn_2_color?>">
 									<i class="fa fa-sitemap fa-3x"></i>
 									<h5>Afiliar en Frontal</h5>
 								</div>
 							</a>
 						</div>
-						<div class="col-lg-5 col-sm-5 col-md-5 col-xs-12">
+						<div class="col-lg-3 col-sm-3 col-md-3 col-xs-12">
 							<a href="afiliar_red_existente?id=<?php echo $_GET['id']; ?>">
 								<div
 									class="well well-sm txt-color-white text-center link_dashboard"
-									style="background: #60a917">
+									style="background: <?=$style[0]->btn_2_color?>">
 									<i class="fa fa-sitemap fa-3x"></i>
 									<h5>Afiliar en Red</h5>
 								</div>

@@ -20,7 +20,7 @@
 							<a href="/ov/perfil_red/afiliar_frontal?id=<?php echo $_GET['id']; ?>">
 								<div
 									class="well well-sm txt-color-white text-center link_dashboard"
-									style="background: #606060">
+									style="background: <?=$style[0]->btn_2_color?>">
 									<i class="fa fa-sitemap fa-3x"></i>
 									<h5>Afiliar en Frontal</h5>
 								</div>
@@ -30,7 +30,7 @@
 							<a href="/ov/perfil_red/afiliar_red?id=<?php echo $_GET['id']; ?>">
 								<div
 									class="well well-sm txt-color-white text-center link_dashboard"
-									style="background: #606060">
+									style="background: <?=$style[0]->btn_2_color?>">
 									<i class="fa fa-sitemap fa-3x"></i>
 									<h5>Afiliar en Red</h5>
 								</div>
